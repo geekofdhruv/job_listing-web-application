@@ -28,3 +28,14 @@
 
 - Displays job listings in a structured, easy-to-navigate layout.
 - Users can browse through job opportunities with details such as title, location, and company.
+## Setup Instructions
+###
+1. Clone the repository.
+2. Install dependencies for the backend and frontend:
+- Backend: npm install
+- Frontend: npm install
+3. Start the development servers:
+- Backend: npm run dev
+- Frontend: npm run dev
+4. Configure PostgreSQL credentials in the backend.
+5. Run the Selenium script to scrape and populate job data.
